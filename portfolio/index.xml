@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on Creative portfolio</title>
-    <link>https://example.org/portfolio/</link>
-    <description>Recent content in Portfolios on Creative portfolio</description>
+    <title>Portfolios on grabrielaarisel</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on grabrielaarisel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:53:42 +0530</lastBuildDate>
     
-	<atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PLANO DE LUZ 2</title>
-      <link>https://example.org/portfolio/work2/</link>
+      <link>/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work2/</guid>
+      <guid>/portfolio/work2/</guid>
       <description>&lt;p&gt;Escala de grises del reflejo de el plano de luz&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PLANO DE LUZ 3</title>
-      <link>https://example.org/portfolio/work3/</link>
+      <link>/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work3/</guid>
+      <guid>/portfolio/work3/</guid>
       <description>&lt;p&gt;plano descompuesto&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>VOLUMEN DE LUZ 1</title>
-      <link>https://example.org/portfolio/work4/</link>
+      <link>/portfolio/work4/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work4/</guid>
+      <guid>/portfolio/work4/</guid>
       <description>&lt;p&gt;tecnica de dibujo en trama con lapiz gel&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>BITÁCORA INSTALACIÓN HUGO</title>
-      <link>https://example.org/portfolio/work5/</link>
+      <link>/portfolio/work5/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work5/</guid>
+      <guid>/portfolio/work5/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PLANO DE LUZ 1</title>
-      <link>https://example.org/portfolio/work1/</link>
+      <link>/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work1/</guid>
+      <guid>/portfolio/work1/</guid>
       <description>&lt;p&gt;La luz direcciona con angulo hacia el plano de papel&lt;/p&gt;</description>
     </item>
     
