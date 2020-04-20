@@ -1,15 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GABRIELA ARISEL RODRIGUEZ VARGAS on gabrielaarisel</title>
-    <link>/about/</link>
-    <description>Recent content in GABRIELA ARISEL RODRIGUEZ VARGAS on gabrielaarisel</description>
+    <title>gabrielaarisel</title>
+    <link>/</link>
+    <description>Recent content on gabrielaarisel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
     
-	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PLANO DE LUZ 2</title>
+      <link>/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/work2/</guid>
+      <description>&lt;p&gt;Escala de grises del reflejo de el plano de luz&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PLANO DE LUZ 3</title>
+      <link>/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/portfolio/work3/</guid>
+      <description>&lt;p&gt;plano descompuesto&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VOLUMEN DE LUZ 1</title>
+      <link>/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work4/</guid>
+      <description>&lt;p&gt;Volumen de paapel plegado&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>APEGO</title>
+      <link>/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/work10/</guid>
+      <description>&lt;p&gt;Partos del futuro&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BITÁCORA INSTALACIÓN HUGO</title>
+      <link>/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/work5/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Comparto tu parto</title>
+      <link>/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/work9/</guid>
+      <description>&lt;p&gt;Partos del futuro&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Intro Fusion</title>
+      <link>/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/work8/</guid>
+      <description>&lt;p&gt;Software de modelacion 3d.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MOVILIDAD</title>
+      <link>/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/work6/</guid>
+      <description>&lt;p&gt;¿Qué nos hace humanos?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SOFTWARE CREATIVO</title>
+      <link>/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/work7/</guid>
+      <description>&lt;h2 id=&#34;dibujo-gif-filtros-desde-paginas-open-source&#34;&gt;Dibujo, gif, filtros desde paginas open source.&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>PLANO DE LUZ 1</title>
+      <link>/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work1/</guid>
+      <description>&lt;p&gt;La luz direcciona con angulo hacia el plano de papel&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>
